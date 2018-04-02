@@ -1,4 +1,4 @@
-# APlikasi Multi Level Login
+# Aplikasi Multi Level Login
 
 Source code aplikasi multi level berbasis PHP dan Bootstrap beserta MD5.
 Aplikasi ini memiliki level :
